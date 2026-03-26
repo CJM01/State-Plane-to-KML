@@ -29,8 +29,8 @@ pip install pandas pyproj simplekml
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/state-plane-to-kml.git
-cd state-plane-to-kml
+git clone https://github.com/CJM01/State-Plane-to-KML.git
+cd State-Plane-to-KML
 ```
 
 **2. Install dependencies**
