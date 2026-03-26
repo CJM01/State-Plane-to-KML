@@ -75,15 +75,15 @@ The script will display a numbered list of all available zones. Type the number 
   ...
 ============================================================
 
-Enter zone number (1β97):
+Enter zone number (1-97):
 ```
 
 **6. Grab your output files**
 
 Two files will be saved in the same folder as the script:
 
-- `Survey_Points.kml` β open this in Google Earth
-- `Plotted_Data.csv` β your original data with latitude/longitude columns added
+- `Survey_Points.kml`  open this in Google Earth
+- `Plotted_Data.csv`  your original data with latitude/longitude columns added
 
 ---
 
