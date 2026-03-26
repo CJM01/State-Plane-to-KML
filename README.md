@@ -2,7 +2,7 @@
 
 A simple Python tool that converts survey CSV files from any **NAD83 State Plane Coordinate System** zone into a **KML file** for viewing in Google Earth.
 
-Supports 97 State Plane zones across the US.
+Currently Supports 97 State Plane zones across the US.
 
 ---
 
