@@ -87,21 +87,21 @@ Two files will be saved in the same folder as the script:
 
 ---
 
-## π Project Structure
+## Project Structure
 
 ```
 state-plane-to-kml/
-βββ survey_to_kml.py      # Main script
-βββ requirements.txt      # Python dependencies
-βββ .gitignore
-βββ README.md
-βββ example/
-    βββ example.csv       # Sample survey data to test with
+survey_to_kml.py      # Main script
+requirements.txt      # Python dependencies
+.gitignore
+README.md
+example/
+    example.csv       # Sample survey data to test with
 ```
 
 ---
 
-## πΊοΈ Supported Zones
+## Supported Zones
 
 Zones are sourced from [proj.org](https://proj.org/en/stable/) and cover:
 
@@ -109,6 +109,6 @@ AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, 
 
 ---
 
-## π License
+## License
 
-MIT License β free to use, modify, and share.
+MIT License free to use, modify, and share.
