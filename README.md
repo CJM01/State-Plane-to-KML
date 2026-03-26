@@ -6,13 +6,13 @@ Supports 97 State Plane zones across the US.
 
 ---
 
-## πΈ Demo
+## Demo
 
 Drop in your CSV, pick your zone, and open the resulting `Survey_Points.kml` in Google Earth.
 
 ---
 
-## π Requirements
+## Requirements
 
 - Python 3.8+
 - pip
@@ -25,7 +25,7 @@ pip install pandas pyproj simplekml
 
 ---
 
-## π How to Use
+## How to Use
 
 **1. Clone the repo**
 ```bash
