@@ -105,7 +105,7 @@ Two files will be saved in the same folder as the script:
 
 ## Supported Zones
 
-Zones are sourced from [proj.org](https://proj.org/en/stable/) and cover:
+Zones are sourced from [epsg.io](https://epsg.io/) and cover:
 
 AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, WA, WI, WY
 
