@@ -8,6 +8,8 @@ Currently Supports 97 State Plane zones across the US.
 
 ## Demo
 
+![Screenshot}(docs/Screenshot.png)
+
 Drop in your CSV, pick your zone, and open the resulting `Survey_Points.kml` in Google Earth.
 
 ---
