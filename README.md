@@ -90,13 +90,13 @@ Two files will be saved in the same folder as the script:
 ## Project Structure
 
 ```
-state-plane-to-kml/
-survey_to_kml.py      # Main script
-requirements.txt      # Python dependencies
-.gitignore
-README.md
-example/
-    example.csv       # Sample survey data to test with
+- survey_to_kml.py      # Main script
+- requirements.txt      # Python dependencies
+- .gitignore
+- README.md
+- docs/
+    example.csv       # Sample survey data to test with. This was taken in Mississippi East
+    Screenshot.png    # Example in Google Earth with example.csv
 ```
 
 ---
